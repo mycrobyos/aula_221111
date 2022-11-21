@@ -5,34 +5,22 @@ Primeira etapa
 Regras de Implementação
 O sistema deve ser capaz de cadastrar os seguintes produtos: livros, jogos, filmes, álbuns de música e brinquedos.
 
-Livros:
-Devem ter nome, id, preço, gêneros, escritor, editora .
+Livros: Devem ter nome, id, preço, gêneros, escritor, editora .
 
-Jogos:
-Devem ter nome, id, preço, distribuidora, gênero e estúdio
+Jogos: Devem ter nome, id, preço, distribuidora, gênero e estúdio
 
-Filmes:
-Devem ter nome, id, preço, estúdio, diretores, gêneros e produtores
+Filmes: Devem ter nome, id, preço, estúdio, diretores, gêneros e produtores
 
-Álbuns de música:
-Devem ter nome, id, preço, músicos/bandas, gêneros e selos
+Álbuns de música: Devem ter nome, id, preço, músicos/bandas, gêneros e selos
 
-Brinquedos:
-Devem ter nome, id, preço e tipo.
+Brinquedos: Devem ter nome, id, preço e tipo.
 
 Além disso nosso sistema deve possuir um caixa. Este caixa deve ter a informação de dinheiro que está presente nele.
 
 Algumas funcionalidades do sistema:
 
-OK Você deve ser capaz de adicionar,
-OK ver,
-alterar
-OK remover qualquer produto do sistema.
-
+OK Você deve ser capaz de adicionar, OK ver, alterar e OK remover qualquer produto do sistema.
 Ok Você deve ser capaz de ver quantos itens de um tipo específico existem no estoque.
-
 OK Você deve ser capaz de ver a listagem completa dos itens em estoque.
-
 OK Você deve ser capaz de ver a listagem dos itens em estoque por categoria.
-
 OK Você deve ser capaz de realizar a operação de compra, ao realizar esta operação os produtos comprados são removidos do estoque e o dinheiro pago deve ser adicionado ao caixa.
